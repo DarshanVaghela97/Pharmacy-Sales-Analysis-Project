@@ -32,7 +32,6 @@ Does store type or store size change margin?
 🧬 Branded products earn 28.50% margin vs 25.76% for generics
 🏪 Margin stays near 28% across Urban, Suburban and Rural stores, so what is sold matters more than where
 🚫 35 discontinued products still brought in €1.57L revenue in 2025
-> Use the \*\*Year\*\* slicer to switch between 2024 and 2025. Numbers above are for 2025.
 
 ---
 🛠️ Tools & Skills Used
