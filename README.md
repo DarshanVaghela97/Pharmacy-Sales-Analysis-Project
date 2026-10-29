@@ -9,16 +9,16 @@ An interactive 4-page Power BI dashboard that analyzes sales and profit for a Eu
 ## 📸 Dashboard Preview
 
 ### Overview
-![Overview](screenshots/01_overview.png)
+![Overview](Screenshots/01_overview.png)  Screenshots/01_overview.png
 
 ### Geography
-![Geography](screenshots/02_geography.png)
+![Geography](Screenshots/02_geography.png)
 
 ### Product & Category
-![Product & Category](screenshots/03_product_category.png)
+![Product & Category](Screenshots/03_product_category.png)
 
 ### Profitability Drivers
-![Profitability Drivers](screenshots/04_profitability.png)
+![Profitability Drivers](Screenshots/04_profitability.png)
 
 ---
 
