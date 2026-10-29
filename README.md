@@ -39,8 +39,9 @@ An interactive 4-page Power BI dashboard that analyzes sales and profit for a Eu
 - 💊 **Prescription** brings the most revenue (€1.44M) but has the **lowest margin** among categories, while **Wellness and Personal Care** earn the highest
 - 🏷️ **Promotions cut margin**: promo sales earn **19.96%** vs **29.04%** without promos
 - 🧬 **Branded** products earn **28.50%** margin vs **25.76%** for generics
-- 🏪 Margin stays near 28% across Urban, Suburban and Rural stores, so **what is sold matters more than where**
-- 🚫 **35 discontinued products** still brought in **€1.57L** revenue in 2025
+- 🏪 Margin stays near 28% across Urban, Suburban and Rural stores, suggesting store type has little effect on profitability
+- 🚫 **35 products** are discontinued; 16 of them sold in 2025 (**€157K** revenue), all before their discontinuation dates
+- 📈 Revenue grew about **4.4%** from €4.22M (2024) to €4.41M (2025)
 
 > Use the **Year** slicer to switch between 2024 and 2025. Numbers above are for 2025.
 
@@ -70,14 +71,14 @@ An interactive 4-page Power BI dashboard that analyzes sales and profit for a Eu
 
 ```
 ├── README.md
-├── Pharmacy_Dashboard.pbix
-├── Pharmacy_Data_Challenge_Dataset.xlsx
-└── screenshots/
+├── Pharmacy Dashboard.pbix
+├── Pharmacy_Sales_Dataset.xlsx
+└── Screenshots/
 ```
 
 ## ▶️ How to Open
 
-1. Download `Pharmacy_Dashboard.pbix`
+1. Download `Pharmacy Dashboard.pbix`
 2. Open it in **Power BI Desktop** (free)
 
 ---
