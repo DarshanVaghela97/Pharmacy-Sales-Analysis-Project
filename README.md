@@ -1,66 +1,88 @@
-💊 Pharmacy Sales & Profitability Dashboard (Power BI)
-An interactive 4-page Power BI dashboard that analyzes sales and profit for a European pharmacy chain: where the money comes from, what sells, and what drives margin.
+# 💊 Pharmacy Sales & Profitability Dashboard (Power BI)
 
-🔗 LinkedIn post: https://lnkd.in/p/dGAJ72Q2
+An interactive 4-page Power BI dashboard that analyzes sales and profit for a European pharmacy chain: **where** the money comes from, **what** sells, and **what drives margin**.
 
-📸 Dashboard Preview
-Overview
+🔗 **LinkedIn post:** https://lnkd.in/p/dGAJ72Q2
+
+---
+
+## 📸 Dashboard Preview
+
+### Overview
 ![Overview](screenshots/01_overview.png)
 
-Geography
+### Geography
 ![Geography](screenshots/02_geography.png)
 
-Product & Category
+### Product & Category
 ![Product & Category](screenshots/03_product_category.png)
 
-Profitability Drivers
+### Profitability Drivers
 ![Profitability Drivers](screenshots/04_profitability.png)
 
 ---
-❓ Business Questions Answered
-How much revenue and margin does the chain make, and is it growing?
-Which countries, regions and pharmacies perform best?
-Which product categories and brands bring the most revenue and profit?
-Do promotions actually help profitability?
-Does store type or store size change margin?
+
+## ❓ Business Questions Answered
+
+- How much revenue and margin does the chain make, and is it growing?
+- Which countries, regions and pharmacies perform best?
+- Which product categories and brands bring the most revenue and profit?
+- Do promotions actually help profitability?
+- Does store type or store size change margin?
 
 ---
-🔍 Key Insights (2025 view)
-💶 €4.41M revenue and €1.24M margin (28.11%) from 227,991 units across 31,827 transactions
-🌍 Lombardy, Hamburg and Utrecht are the top 3 regions by revenue
-💊 Prescription brings the most revenue (€1.44M) but has the lowest margin among categories, while Wellness and Personal Care earn the highest
-🏷️ Promotions cut margin: promo sales earn 19.96% vs 29.04% without promos
-🧬 Branded products earn 28.50% margin vs 25.76% for generics
-🏪 Margin stays near 28% across Urban, Suburban and Rural stores, so what is sold matters more than where
-🚫 35 discontinued products still brought in €1.57L revenue in 2025
+
+## 🔍 Key Insights (2025 view)
+
+- 💶 **€4.41M revenue** and **€1.24M margin** (**28.11%**) from **227,991 units** across **31,827 transactions**
+- 🌍 **Lombardy, Hamburg and Utrecht** are the top 3 regions by revenue
+- 💊 **Prescription** brings the most revenue (€1.44M) but has the **lowest margin** among categories, while **Wellness and Personal Care** earn the highest
+- 🏷️ **Promotions cut margin**: promo sales earn **19.96%** vs **29.04%** without promos
+- 🧬 **Branded** products earn **28.50%** margin vs **25.76%** for generics
+- 🏪 Margin stays near 28% across Urban, Suburban and Rural stores, so **what is sold matters more than where**
+- 🚫 **35 discontinued products** still brought in **€1.57L** revenue in 2025
+
+> Use the **Year** slicer to switch between 2024 and 2025. Numbers above are for 2025.
 
 ---
-🛠️ Tools & Skills Used
-Power BI Desktop: dashboard design, slicers, custom navigation
-DAX: measures such as Total Revenue, Total Margin, Margin %, ranking (RANKX)
-Data Modeling: star schema (1 fact table + 3 dimension tables)
-Excel: source dataset
+
+## 🛠️ Tools & Skills Used
+
+- **Power BI Desktop**: dashboard design, slicers, custom navigation
+- **DAX**: measures such as Total Revenue, Total Margin, Margin %, ranking (RANKX)
+- **Data Modeling**: star schema (1 fact table + 3 dimension tables)
+- **Excel**: source dataset
 
 ---
-🗂️ Data Model
-Table	Type	Rows
-FactSales	Fact	62,139
-DimDate	Dimension	731
-DimPharmacy	Dimension	120
-DimProduct	Dimension	220
+
+## 🗂️ Data Model
+
+| Table | Type | Rows |
+|---|---|---|
+| FactSales | Fact | 62,139 |
+| DimDate | Dimension | 731 |
+| DimPharmacy | Dimension | 120 |
+| DimProduct | Dimension | 220 |
+
 ---
-📁 Repo Contents
+
+## 📁 Repo Contents
+
 ```
 ├── README.md
-├── Pharmacy\_Dashboard.pbix
-├── Pharmacy\_Data\_Challenge\_Dataset.xlsx
+├── Pharmacy_Dashboard.pbix
+├── Pharmacy_Data_Challenge_Dataset.xlsx
 └── screenshots/
 ```
-▶️ How to Open
-Download `Pharmacy\_Dashboard.pbix`
-Open it in Power BI Desktop (free)
+
+## ▶️ How to Open
+
+1. Download `Pharmacy_Dashboard.pbix`
+2. Open it in **Power BI Desktop** (free)
 
 ---
-👤 Author
-Darshan Vaghela | Aspiring Data Analyst
-🔗https://www.linkedin.com/in/darshanvaghela9/ | 💻https://github.com/DarshanVaghela97/
+
+## 👤 Author
+
+**[Darshan Vaghela]** | Aspiring Data Analyst
+🔗 [LinkedIn](https://www.linkedin.com/in/darshanvaghela9/) | 💻 [GitHub](https://github.com/DarshanVaghela97)
