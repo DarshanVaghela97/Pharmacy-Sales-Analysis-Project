@@ -84,5 +84,5 @@ An interactive 4-page Power BI dashboard that analyzes sales and profit for a Eu
 
 ## 👤 Author
 
-**[Darshan Vaghela]** | Aspiring Data Analyst
+**Darshan Vaghela** | Aspiring Data Analyst
 🔗 [LinkedIn](https://www.linkedin.com/in/darshanvaghela9/) | 💻 [GitHub](https://github.com/DarshanVaghela97)
