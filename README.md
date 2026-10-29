@@ -1,5 +1,6 @@
 💊 Pharmacy Sales & Profitability Dashboard (Power BI)
 An interactive 4-page Power BI dashboard that analyzes sales and profit for a European pharmacy chain: where the money comes from, what sells, and what drives margin.
+
 🔗 LinkedIn post: https://lnkd.in/p/dGAJ72Q2
 
 📸 Dashboard Preview
